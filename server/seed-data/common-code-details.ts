@@ -3366,7 +3366,7 @@ export const COMMON_CODE_DETAILS = [
     parentName: 'STORAGE_CATEGORY'
   },
   {
-    name: 'button',
+    gutterName: 'button',
     description: 'Button',
     rank: 10,
     parentName: 'TERMS_CATEGORY'
